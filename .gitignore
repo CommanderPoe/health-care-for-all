@@ -1,0 +1,6 @@
+categorical.p
+numerical.p
+.DS*
+learningSet.csv
+learningSet.zip
+learningSet.p
